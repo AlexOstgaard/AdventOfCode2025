@@ -4,6 +4,8 @@ This is my first time doing the AoC challenge!
 
 I made a leaderboard and invited som friends. You are welcome to join as well, using the code:
 ``` 5129441-a95624de ```
+
+You can check out the description of all the problems here: https://adventofcode.com/2025
 ___
 ### My choice of programming languages
 
